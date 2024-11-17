@@ -1,0 +1,24 @@
+/* استایل برای تمام نقاط ناوبری */
+.swiper-pagination-bullet {
+  display: inline-block;
+  width: 8px; /* اندازه پیش‌فرض دایره */
+  height: 8px;
+  margin: 0 5px;
+  background-color: #1c1c1c; /* رنگ پس‌زمینه نقاط */
+  border-radius: 50%; /* دایره‌ای کردن نقاط */
+  opacity: 0.5; /* شفافیت برای نقاط غیر فعال */
+  transition: background-color 0.3s ease, transform 0.3s ease, width 0.3s ease,
+    height 0.3s ease; /* انتقال نرم برای تغییر شکل */
+}
+
+/* استایل برای نقطه فعال */
+.swiper-pagination-bullet-active {
+  background-color: #fff; /* تغییر رنگ به سفید برای نقطه فعال */
+  opacity: 1; /* کاملاً قابل مشاهده */
+  width: 15px; /* تغییر عرض برای بیضی شدن */
+  height: 10px; /* ارتفاع ثابت */
+  border-radius: 24px; /* گرد کردن گوشه‌ها برای ایجاد شکل بیضی */
+  transform: scale(
+    1
+  ); /* می‌توانید این را تنظیم کنید تا بزرگ‌تر یا کوچک‌تر شود */
+}

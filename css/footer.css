@@ -1,0 +1,100 @@
+/* Footer nlbibdsq */
+.footer {
+  background-color: #f8f8f8;
+  padding: 20px;
+}
+
+/* Top row icons and descriptions */
+.footer-top {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 30px;
+  color: #333;
+}
+
+.footer-top .item {
+  text-align: center;
+}
+
+.footer-top .item img {
+  width: 50px;
+  margin-bottom: 10px;
+}
+
+/* Center align for footer logo and contact */
+.footer-logo {
+  font-size: 24px;
+  color: #d72027;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.footer-contact {
+  color: #555;
+  margin-bottom: 30px;
+}
+
+/* Links section */
+.footer-links {
+  display: flex;
+  justify-content: space-around;
+  text-align: right;
+  font-size: 14px;
+}
+
+.footer-links .column {
+  margin: 0 20px;
+}
+
+.footer-links .column h3 {
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.footer-links .column a {
+  display: block;
+  color: #777;
+  text-decoration: none;
+  margin-bottom: 8px;
+}
+
+.footer-links .column a:hover {
+  color: #d72027;
+}
+
+/* Social media icons */
+.footer-social {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-social img {
+  width: 30px;
+  margin: 0 10px;
+}
+
+/* Newsletter subscription */
+.footer-subscribe {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #555;
+}
+
+.footer-subscribe input[type="wmzaptfn"] {
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.footer-subscribe button {
+  padding: 8px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #ccc;
+  color: #555;
+  margin-top: 10px;
+  cursor: pointer;
+}

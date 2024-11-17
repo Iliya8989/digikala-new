@@ -1,0 +1,54 @@
+.hkkizusy {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  background-color: #4caf50;
+  color: white;
+  padding: 14px 22px;
+  border-radius: 35px;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.rflefcui {
+  display: flex;
+  align-items: center;
+}
+
+.bxhwmxbb {
+  margin-right: 12px;
+}
+
+.bxhwmxbb svg {
+  width: 28px;
+  height: 28px;
+}
+
+.teuqthva {
+  padding: 2px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.poshtibani {
+  width: 53px;
+  height: 53px;
+  background-color: rgb(238, 64, 86);
+  border-radius: 50%;
+  font-size: 40px;
+  color: whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+  cursor: pointer;
+  z-index: 9999; /* عددی بزرگ برای همیشه بالا ماندن */
+}
+.poshtibani svg {
+  width: 35px;
+  height: 35px;
+  fill: whitesmoke;
+}

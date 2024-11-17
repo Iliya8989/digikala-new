@@ -1,0 +1,41 @@
+.zxjfjdqu {
+  width: 100%;
+  height: 170px;
+  display: flex;
+  justify-content: center;
+  .qyzkmyjq {
+    width: 80%;
+    height: inherit;
+    .vfavqkst {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-flow: column nowrap;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      .kfvxuzae {
+        width: 74px;
+        height: 74px;
+        border-radius: 50%;
+        cursor: pointer;
+        img {
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+          border-radius: 50%;
+          outline: 2px solid purple;
+          outline-offset: 3px;
+        }
+      }
+      .izjdlvrd {
+        width: 100%;
+        font-size: 11px;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        -webkit-line-clamp: 2;
+      }
+    }
+  }
+}

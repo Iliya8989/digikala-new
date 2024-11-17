@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "chokidar": "^4.0.1",
+    "node-telegram-bot-api": "^0.66.0",
+    "open": "^10.1.0",
+    "swiper": "^11.1.14",
+    "ws": "^8.18.0"
+  }
+}
